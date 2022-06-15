@@ -1,4 +1,7 @@
-Cara dapat session
-
-https://youtu.be/7wfSvv4AHsQ
-
+{
+	"clientID": "noL4YFYLXAzFM4W8Xm3Cwg==",
+	"serverToken": "1@ZmXFB0yKItx+qCElH5lFr5CHNpFiOcsWYpc0EYuG4yuuyAEUwb1R2Zb79tm6Vbb3/N4QHHuxQPXREQ==",
+	"clientToken": "rukVHwDY1EJvHR6DAeKxoq66jfRm5veGEG1p5GOBCRU=",
+	"encKey": "rqKN60kY+OqiEB9zEQnjqaUhwcKlkyOCgdc05wsDO3E=",
+	"macKey": "JU0tYX1CIItGQyAB/24qxYWTwMuiIR8UU6lW/fm8wZc="
+}
